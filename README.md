@@ -1,6 +1,6 @@
 # Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning
 
-> **CVPR 2026 Submission**
+> **CVPR 2026 Findings Track**
 
 ## Overview
 
