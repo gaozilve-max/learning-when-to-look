@@ -23,7 +23,7 @@ Our trained model and RL training dataset are available on HuggingFace:
 
 🤗 **Model**: [zilve/learning-when-to-look](https://huggingface.co/zilve/learning-when-to-look)
 
-🤗 **RL Stage Dataset**: [zilve/learning-when-to-look-RLdataset](https://huggingface.co/datasets/zilve/learning-when-to-look-RLdataset)
+🤗 **SFT Stage Dataset**: [zilve/learning-when-to-look-SFTdataset](https://huggingface.co/datasets/zilve/learning-when-to-look-SFTdataset)
 
 ## Results
 
