@@ -17,11 +17,13 @@ We propose a curriculum-based framework to **disentangle** these skills:
 
 ![Framework Overview](assets/framework.png)
 
-## Model
+## Model & Dataset
 
-Our trained model is available on HuggingFace:
+Our trained model and RL training dataset are available on HuggingFace:
 
-🤗 **[zilve/learning-when-to-look](https://huggingface.co/zilve/learning-when-to-look)**
+🤗 **Model**: [zilve/learning-when-to-look](https://huggingface.co/zilve/learning-when-to-look)
+
+🤗 **RL Stage Dataset**: [zilve/learning-when-to-look-RLdataset](https://huggingface.co/datasets/zilve/learning-when-to-look-RLdataset)
 
 ## Results
 
