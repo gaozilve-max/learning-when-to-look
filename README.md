@@ -25,6 +25,8 @@ Our trained model and RL training dataset are available on HuggingFace:
 
 🤗 **SFT Stage Dataset**: [zilve/learning-when-to-look-SFTdataset](https://huggingface.co/datasets/zilve/learning-when-to-look-SFTdataset)
 
+🤗 **RL Stage Dataset**: [zilve/learning-when-to-look-RLdataset](https://huggingface.co/datasets/zilve/learning-when-to-look-RLdataset)
+
 ## Results
 
 ### Multimodal Reasoning Benchmarks (7B Open-Source Models)
