@@ -125,14 +125,6 @@ pip install -e .
 python verl/trainer/main.py --config examples/config_learning_when_to_look.yaml
 ```
 
-## Citation
-
-```bibtex
-@inproceedings{learning-when-to-look,
-  title={Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning},
-  booktitle={CVPR},
-  year={2026}
-}
 ```
 
 ## Acknowledgements
